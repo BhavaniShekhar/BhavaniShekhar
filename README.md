@@ -33,17 +33,15 @@ Beyond core engineering, I advocate for responsible engineering, write about clo
 * Observability & Site Reliability Engineering (SRE): Datadog Noise Reduction, Prometheus, AlertManager, Patroni PostgreSQL Monitoring, PromQL, Log Monitoring (Nagios), MTTD/MTTR Optimization, System Reliability (99.99% Uptime). 
 * Scripting & Integration: Python, Bash, YAML, WLST, Jinja2 Templating, JSON, RESTful APIs, WebLogic Middleware, Apache HTTP Server.
 
-### 📚 Technical Blogs & Resources
+### 🌐 My Technical Blogs
 
-| Blog / Topic | Focus & Description | Link |
-| :--- | :--- | :--- |
-| **WebLogic 12c Essentials** | Critical patch updates, certification learning, & core administration | [Visit Blog](https://weblogic12cessentials.blogspot.com/) |
-| **WLST by Examples** | Scripting & automation examples for WebLogic Server | [Visit Blog](https://wlstbyexamples.blogspot.com/) |
-| **WLA Tricks & Tips** | WebLogic Administration tips, performance tuning, & quick fixes | [Visit Blog](https://wlatricksntips.blogspot.com/) |
-| **DevOps Hunter** | CI/CD pipelines, cloud infrastructure, Docker, Kubernetes & modern DevSecOps | [Visit Blog](https://devopshunter.blogspot.com/) |
-| **Python Orientation** | Python basics, scripting tutorials, & core concepts | [Visit Blog](https://python-orientation.blogspot.com/) |
-| **Jython for WebSphere Admin** | WAS automation scripts using Jython | [Visit Blog](https://jython4wsadmin.blogspot.com/) |
-| **My OFMW Experiments** | Oracle Fusion Middleware deployment & configuration hands-on | [Visit Blog](https://myofmwexperiments.blogspot.com/) |
+* 🛠️ **[WebLogic 12c Essentials](https://weblogic12cessentials.blogspot.com/)** – Oracle WebLogic 12c administration, certification guides, and patch updates.
+* ⚡ **[WLST by Examples](https://wlstbyexamples.blogspot.com/)** – Hands-on examples of WebLogic Scripting Tool (WLST) for domain management.
+* 💡 **[WLA Tricks & Tips](https://wlatricksntips.blogspot.com/)** – Quick tips and operational best practices for WebLogic administrators.
+* 🚀 **[DevOps Hunter](https://devopshunter.blogspot.com/)** – Insights into DevOps tools, CI/CD pipelines, and infrastructure automation.
+* 🐍 **[Python Orientation](https://python-orientation.blogspot.com/)** – Scripting tutorials and foundational Python guides.
+* ☕ **[Jython for WAS Admin](https://jython4wsadmin.blogspot.com/)** – WebSphere Application Server administration scripts powered by Jython.
+* 🧪 **[My OFMW Experiments](https://myofmwexperiments.blogspot.com/)** – Real-world configurations and troubleshooting in Oracle Fusion Middleware.
 
 ### ⚡ Fun fact:
 
